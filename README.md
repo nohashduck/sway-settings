@@ -1,5 +1,5 @@
 # sway_settings
-![Alt text](/blob/main/screenshots/screenshot.png "screenshot")
+![Alt text](/screenshots/screenshot.png "screenshot")
 
 ## Setup
 ```
