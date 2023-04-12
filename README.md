@@ -1,5 +1,5 @@
 # sway_settings
-![Image alt](https://github.com/nohashduck/sway_settings/screenshots/screenshot.png)
+![Image alt](https://github.com/nohashduck/sway_settings/tree/main/screenshots/screenshot.png)
 
 ## Setup
 ```
