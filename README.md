@@ -5,5 +5,5 @@
 ```
 $ sudo pacman -S git
 $ git clone https://github.com/nohashduck/sway_settings
-$ sudo bash ./sway_settings/install.sh
+$ su && bash ./sway_settings/install.sh
 ```
