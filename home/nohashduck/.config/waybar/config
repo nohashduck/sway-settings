@@ -1,0 +1,49 @@
+{
+"height": 30,
+
+"modules-left":[
+
+],
+
+"modules-center":[
+	"clock",
+],
+
+"modules-right":[
+	"sway/language",
+	"pulseaudio",
+],
+
+"clock": {
+	"timezone": "Europe/Moscow",
+	"format": "{:%a, %d  %B %H:%M}"
+},
+
+"sway/language": {
+	"format": "  {}    ",
+	"tooltip": false
+},
+
+"pulseaudio": {
+	"format": "  {icon} {volume}%    ",
+            "format-icons": {
+                "default": ["", "", ""]
+	},
+},
+
+"wlr/taskbar": {
+	"format": "{icon}",
+	"icon-size": 15,
+	"icon-theme": "Papirus-Dark-Custom",
+	"tooltip-format": "{title}",
+	"on-click": "activate",
+	"on-click-middle": "close"
+},
+
+"escape": true,
+	"exec": "$HOME/.config/waybar/mediaplayer.py 2> /dev/null" // Script in resources folder
+	// "exec": "$HOME/.config/waybar/mediaplayer.py --player spotify 2> /dev/null" // Filter player based on name
+	}
+}
+
+

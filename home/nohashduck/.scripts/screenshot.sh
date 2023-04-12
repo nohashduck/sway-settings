@@ -1,0 +1,2 @@
+#!/bin/bash
+export date="$(date +%s)" && grim ~/Pictures/screenshot-"$(date +%s)".png && grim - | wl-copy && notify-send -i "/home/$(whoami)/Pictures/screenshot-$date.png" "Screenshot-$date" "Saved to path <b>'/home/$(whoami)/Pictures/screenshot-$date.png'</b>."

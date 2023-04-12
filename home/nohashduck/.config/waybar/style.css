@@ -1,0 +1,13 @@
+*{
+	font-family: Cantarell, otf-font-awesome;
+	font-size: 15px;
+	min-height: 0;
+	border-radius: 0;
+	color: rgba(255, 255, 255, 255);
+}
+
+window#waybar {
+	background-color: rgba(0, 0, 0, 0.25);
+	border-bottom: 0px solid #000000;
+} 
+
