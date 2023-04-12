@@ -3,10 +3,10 @@ export name
 printf "Enter username: "
 read name
 yes | cp -r "$(pwd)/boot" "/"
-yes | cp -r "$(pwd)/home/nohashduck/.icons" "/home/$name/"
-yes | cp -r "$(pwd)/home/nohashduck/.themes" "/home/$name/"
 yes | cp -r "$(pwd)/home/nohashduck/.config" "/home/$name/"
 yes | cp -r "$(pwd)/home/nohashduck/.scripts" "/home/$name/"
+yes | cp -r "$(pwd)/home/nohashduck/.icons" "/home/$name/"
+yes | cp -r "$(pwd)/home/nohashduck/.themes" "/home/$name/"
 yes | cp -r "$(pwd)/home/nohashduck/Pictures" "/home/$name/"
 yes | cp -r "$(pwd)/home/nohashduck/.bash_profile" "/home/$name/"
 yes | cp -r "$(pwd)/home/nohashduck/.vimrc" "/home/$name/"
