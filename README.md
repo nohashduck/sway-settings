@@ -9,7 +9,6 @@
 | home/.../.config/sway | Sway configuration |
 | home/.../.config/sway | Waybar configuration |
 
-
 ## Setup
 ```
 $ sudo pacman -S git
