@@ -1,5 +1,5 @@
 # sway_settings
-![alt text]([[http://url/to/img.png](https://github.com/nohashduck/sway_settings/blob/main/screenshots/screenshot.png)]([https://github.com/nohashduck/sway_settings/blob/main/screenshots/screenshot.png?raw=true](https://github.com/nohashduck/sway_settings/blob/main/screenshots/screenshot.png)))
+![Alt text](/blob/main/screenshots/screenshot.png "screenshot")
 
 ## Setup
 ```
