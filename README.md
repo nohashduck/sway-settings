@@ -1,4 +1,4 @@
-# sway_settings
+# Sway settings
 ![screenshot](/screenshot.png "screenshot")
 
 ## Setup
