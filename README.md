@@ -1,5 +1,5 @@
 # sway_settings
-![Alt text](/screenshots/screenshot.png "screenshot")
+![screenshot](/screenshot.png "screenshot")
 
 ## Setup
 ```
